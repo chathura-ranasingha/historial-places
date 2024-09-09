@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Grand Canyon",
+        "image": "https://images.pexels.com/photos/258045/pexels-photo-258045.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "A magnificent natural wonder carved by the Colorado River.",
+        "visited": false
+    },
+    {
+        "id": 2,
+        "name": "Eiffel Tower",
+        "image": "https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "The iconic symbol of Paris, known for its stunning architecture.",
+        "visited": true
+    },
+    {
+        "id": 3,
+        "name": "Great Wall of China",
+        "image": "https://images.pexels.com/photos/4388164/pexels-photo-4388164.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "An ancient wall stretching over 13,000 miles, built for defense.",
+        "visited": false
+    },
+    {
+        "id": 4,
+        "name": "Santorini",
+        "image": "https://images.pexels.com/photos/1029011/pexels-photo-1029011.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "A beautiful island in Greece, known for its white-washed buildings and blue domes.",
+        "visited": true
+    },
+    {
+        "id": 5,
+        "name": "Machu Picchu",
+        "image": "https://images.pexels.com/photos/22484290/pexels-photo-22484290/free-photo-of-tourists-on-terraced-fields-in-the-lost-city-of-the-incas.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "An ancient Incan city set high in the Andes Mountains.",
+        "visited": false
+    },
+    {
+        "id": 6,
+        "name": "Sydney Opera House",
+        "image": "https://images.pexels.com/photos/5707610/pexels-photo-5707610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "A world-renowned performing arts center in Sydney, Australia.",
+        "visited": true
+    }
+]
